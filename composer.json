@@ -1,0 +1,19 @@
+{
+    "name": "alex/design-patterns",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src",
+            "App\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandr Podgorbunschih",
+            "email": "alexandr.podgorbunschih@enreach.com"
+        }
+    ]
+}
